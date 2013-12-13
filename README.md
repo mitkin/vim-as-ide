@@ -1,7 +1,7 @@
 # TOC
 
  * Git and Pip are your friends:
-    sudo apt-get install git python-pip
+    `sudo apt-get install git python-pip`
 
  * Vim is cool
     * Multimodal approach
@@ -9,7 +9,7 @@
     * Make it look like an IDE
         * Package installation
         * dotvim
- * Vim and shell and terminal (multiplexors)
+ * Shell, multiplexors and shortcuts!
  * Vim and navigation
     * tags and tags navigation
     * File browser
@@ -25,5 +25,3 @@
 # Dependencies
      sudo pip install flake8
      sudo pip install git+git://github.com/nvie/nose-machineout.git#egg=nose_machineout
-
-
