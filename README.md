@@ -1,3 +1,5 @@
+# TOC
+
  * Vim is cool
     * Multimodal approach
  * Vim is cooler than you think 
