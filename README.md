@@ -5,11 +5,16 @@
 
  * Vim is cool
     * Multimodal approach
+    * buffers and tabs
+    * shortcuts
+    * shell access and integration
+ * Make Vim look like and IDE
+    * Line numbering
+    * Colorschemes
+    * Window splitting
  * Vim is cooler than you think 
-    * Make it look like an IDE
-        * Package installation
-        * dotvim
- * Shell, multiplexors and shortcuts!
+    * Package installation
+    * dotvim
  * Vim and navigation
     * tags and tags navigation
     * File browser
@@ -19,6 +24,8 @@
 
 
 # vim plugins
+ * ctrlp.vim
+ * ctrlp-funky
  * pathogen
  * vim-flake8
 
