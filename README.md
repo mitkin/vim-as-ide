@@ -61,5 +61,16 @@
 
 
 # Links
- * http://mirnazim.org/writings/vim-plugins-i-use/
- * My dotfiles: https://github.com/mitkin/dotfiles.git
+ * <http://mirnazim.org/writings/vim-plugins-i-use/>
+ * <https://www.youtube.com/watch?v=YhqsjUUHj6g> and his git repo: <https://github.com/mbrochh/vim-as-a-python-ide>
+ * <http://net.tutsplus.com/sessions/vim-essential-plugins/>
+ * <http://vimcasts.org>
+----------------------------
+ * My vim repository: <https://github.com/mitkin/dotvim>
+ * My dotfiles: <https://github.com/mitkin/dotfiles.git>
+
+# Install from my repo
+    mkdir ~/.vim
+    cd ~/.vim
+    git clone https://github.com/mitkin/dotvim.git
+    . ./install_vimrc.sh
