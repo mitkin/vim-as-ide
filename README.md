@@ -24,11 +24,19 @@
 
 
 # vim plugins
+ * pathogen
+ * tagbar
  * ctrlp.vim
  * ctrlp-funky
- * pathogen
  * vim-flake8
+ * vim-airline
+ * vim-pyunit
+ * tCommenter
+ 
 
 # Dependencies
      sudo pip install flake8
      sudo pip install git+git://github.com/nvie/nose-machineout.git#egg=nose_machineout
+
+# Misc
+ My dotfiles: https://github.com/mitkin/dotfiles.git
