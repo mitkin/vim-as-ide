@@ -37,6 +37,11 @@
 # Dependencies
      sudo pip install flake8
      sudo pip install git+git://github.com/nvie/nose-machineout.git#egg=nose_machineout
+    sudo pip install jedi
+    sudo pip install vim_bridge
+    sudo apt-get install exuberant-ctags
 
-# Misc
- My dotfiles: https://github.com/mitkin/dotfiles.git
+
+# Links
+ * http://mirnazim.org/writings/vim-plugins-i-use/
+ * My dotfiles: https://github.com/mitkin/dotfiles.git
